@@ -71,11 +71,6 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-👨‍💻 Authors
-
-Luqman - @lululuqman
-Maryam - @mrym-emm
-
 🙏 Acknowledgments
 
 Thanks to Groq for providing the AI API
